@@ -1,3 +1,3 @@
-const user = 'wtw';
+const appStatus = 'Running';
 
-console.log(user);
+console.log(appStatus);
