@@ -1,3 +1,3 @@
-const appStatus = 'Running';
+const appStatus = 'Running ...';
 
-console.log(appStatus);
+alert('App is rnning ...');
