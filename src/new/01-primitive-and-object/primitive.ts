@@ -1,9 +1,9 @@
-const name: string = "twwu";
+const user: string = "twwu";
 const age: number = 26;
 const isMale: boolean = true;
 const udef: undefined = undefined;
 const nul: null = null;
-const obj: object = {name, age, isMale};
+const obj: object = { user, age, isMale };
 const bigintVar: bigint = 9007199254740991n;
 const bigintVar2: bigint = BigInt(9007199254740991);
 const symbolVar: symbol = Symbol("unique");
