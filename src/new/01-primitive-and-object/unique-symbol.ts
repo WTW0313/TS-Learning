@@ -4,3 +4,5 @@ const uniqueSymbolFoo: unique symbol = Symbol("Foo");
 // const uniqueSymbolBar: unique symbol = uniqueSymbolFoo;
 
 const uniqueSymbolBaz: typeof uniqueSymbolFoo = uniqueSymbolFoo;
+
+export {};
